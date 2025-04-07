@@ -11,10 +11,15 @@ This repository contains the implementation of the paper "Advancing Point Cloud 
 
 pointnet-optimization/
 ├── dataset.py # Prepares and preprocesses ModelNet40 dataset
+
 ├── utils.py # Installs dependencies and provides helper functions
+
 ├── model.py # Implements the enhanced PointNet architecture
+
 ├── train.py # Handles model training and evaluation
+
 ├── README.md # Project documentation
+
 └── requirements.txt # Python dependencies
 
 
@@ -59,9 +64,15 @@ Confusion matrix for selected classes:
 | **Class 5**        | 0       | 0       | 0       | 1       | 99      |
 
    @inproceedings{akbar2025pointnet,
+   
   title={Advancing Point Cloud Classification with Deep Learning by Optimizing PointNet through Transformations for Superior Accuracy},
+  
   author={Akbar, Muhammad Sufyan and Jiandong, Guo and Khan, Muhammad Irfan and Iqbal, Asif and Salim},
+  
   booktitle={10th International Conference on Information and Communication Technology (ICICT)},
+  
   year={2025},
+  
   location={London, UK}
+  
 }
