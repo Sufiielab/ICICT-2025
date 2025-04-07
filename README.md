@@ -63,6 +63,8 @@ Confusion matrix for selected classes:
 | **Class 4**        | 0       | 0       | 1       | 98      | 1       |
 | **Class 5**        | 0       | 0       | 0       | 1       | 99      |
 
+Cite Our Work in Your Future Work
+
    @inproceedings{akbar2025pointnet,
    
   title={Advancing Point Cloud Classification with Deep Learning by Optimizing PointNet through Transformations for Superior Accuracy},
